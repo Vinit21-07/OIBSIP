@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calculator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+<div class="unit">
+  <div class="brandrow">
+    <span class="name">Reckoner</span>
+    <span class="model">MK-1</span>
+  </div>
+ 
+  <div class="screen">
+    <div class="prev-line" id="prevLine">&nbsp;</div>
+    <div class="main-line" id="mainLine">0</div>
+  </div>
+ 
+  <div class="keys">
+    <button type="button" class="clear" data-action="clear">C</button>
+    <button type="button" class="del" data-action="backspace">⌫</button>
+    <button type="button" class="op" data-action="operator" data-value="÷">÷</button>
+    <button type="button" class="op" data-action="operator" data-value="×">×</button>
+ 
+    <button type="button" class="num" data-action="digit" data-value="7">7</button>
+    <button type="button" class="num" data-action="digit" data-value="8">8</button>
+    <button type="button" class="num" data-action="digit" data-value="9">9</button>
+    <button type="button" class="op" data-action="operator" data-value="−">−</button>
+ 
+    <button type="button" class="num" data-action="digit" data-value="4">4</button>
+    <button type="button" class="num" data-action="digit" data-value="5">5</button>
+    <button type="button" class="num" data-action="digit" data-value="6">6</button>
+    <button type="button" class="op" data-action="operator" data-value="+">+</button>
+ 
+    <button type="button" class="num" data-action="digit" data-value="1">1</button>
+    <button type="button" class="num" data-action="digit" data-value="2">2</button>
+    <button type="button" class="num" data-action="digit" data-value="3">3</button>
+    <button type="button" class="equals" data-action="equals">=</button>
+ 
+    <button type="button" class="num zero" data-action="digit" data-value="0">0</button>
+    <button type="button" class="num" data-action="decimal" data-value=".">.</button>
+  </div>
+</div>
+ 
+<script src="script.js"></script>
+</body>
+</html>
