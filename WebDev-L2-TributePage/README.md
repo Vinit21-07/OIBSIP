@@ -151,10 +151,11 @@ Open **index.html**
 or simply use **Live Server** in VS Code.
 
 ---
+## 🚀 Live Demo
 
-# 🌐 Live Demo
+👉 **Click here to view the project**
 
-you can view the live demo of the project(https://vinit21-07.github.io/WebDev-L2-TributePage/).
+https://vinit21-07.github.io/OIBSIP/WebDev-L2-TributePage/
 
 # 🤝 Contributing
 
