@@ -9,47 +9,47 @@ This project was developed as **Level 2 - Task 2** during my **Frontend Developm
 ## 📸 Project Preview
 
 ### 🏠 Home
-> ![Home](Home.png)
+> ![Home](screenshots/Home.png)
 
 ---
 
 ### 👤 Introduction
-> ![Introduction](Introduction.png)
+> ![Introduction](screenshots/Introduction.png)
 
 ---
 
 ### 📖 Story
-> ![Story](Story.png)
+> ![Story](screenshots/Story.png)
 
 ---
 
 ### 🌍 Life in Full
-> ![Life](Life.png)
+> ![Life](screenshots/Life.png)
 
 ---
 
 ### 🕒 Timeline
-> ![Timeline](Timeline.png)
+> ![Timeline](screenshots/Timeline.png)
 
 ---
 
 ### 🏆 Honours & Achievements
-> ![Honours](Honours.png)
+> ![Honours](screenshots/Honours.png)
 
 ---
 
 ### 💬 Inspirational Quotes
-> ![Words](Words.png)
+> ![Words](screenshots/Words.png)
 
 ---
 
 ### 📌 Key Milestones
-> ![Milestones](Milestones.png)
+> ![Milestones](screenshots/Milestones.png)
 
 ---
 
 ### ⭐ Footer
-> ![Quote](Quote.png)
+> ![Quote](screenshots/Quote.png)
 
 ---
 
